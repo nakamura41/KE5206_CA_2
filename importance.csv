@@ -1,0 +1,14 @@
+feature,fscore
+fbs,194
+slop,258
+exang,294
+sex,349
+restecg,357
+cp,496
+thal,519
+ca,837
+oldpeak,1619
+trestbps,1647
+age,1737
+thalach,2043
+chol,2121
